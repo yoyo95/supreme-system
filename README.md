@@ -1,7 +1,7 @@
 # supreme-system
 # Scripts de maintenance et d’administration
 
-Ce dépôt GitHub est fourni par **Joseph**. [URL path to another document](./installation)
+Ce dépôt GitHub est fourni par **Joseph**. [joseph](https://jzerbib.fr/)
 
 Il a pour objectif de présenter et centraliser différents scripts destinés à améliorer les capacités de maintenance, d’administration, d’automatisation et de diagnostic d’un environnement informatique.
 
